@@ -52,3 +52,6 @@ Successful configuration allows devices in different VLANs to communicate throug
 - Router-on-a-Stick architecture
 - Layer 2 switching and Layer 3 routing interaction
 - Network verification and troubleshooting
+
+## Topology
+![Network Topology](InterVLANChallengeTopology.png)
