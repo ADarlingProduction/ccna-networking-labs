@@ -22,7 +22,7 @@ This lab demonstrates how inter-VLAN routing allows multiple segmented networks 
 
 ## Scenario
 
-This lab simulates a small network where multiple VLANs are configured on a switch and traffic between those VLANs is routed through a router using subinterfaces. Devices are assigned to separate VLANs representing different network groups, and routing is configured so that hosts on different VLANs can communicate. :contentReference[oaicite:0]{index=0}
+This lab simulates a small network where multiple VLANs are configured on a switch and traffic between those VLANs is routed through a router using subinterfaces. Devices are assigned to separate VLANs representing different network groups, and routing is configured so that hosts on different VLANs can communicate.
 
 ## Network Configuration Overview
 
