@@ -21,7 +21,7 @@ The labs demonstrate practical experience configuring and troubleshooting networ
 
 ## Lab Projects
 
-- VLAN Network Segmentation
+- Inter-VLAN Routing
 - Router Interface Configuration
 - SSH Switch Configuration
 - Spanning Tree Loop Prevention
